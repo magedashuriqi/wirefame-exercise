@@ -84,7 +84,7 @@ width:400px;
 height: 390px;
 }
 
-#hover{
+main :nth-child(8){
     position: absolute;
     top:1370px;
     left: 650px;  
@@ -95,7 +95,7 @@ height: 390px;
     padding: 10px;
 }
 
-#hover:hover{
+main :nth-child(8):hover{
     color:mediumturquoise;
     }
 
