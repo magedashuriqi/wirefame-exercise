@@ -5,6 +5,7 @@ html{
 body{
     position: relative;
     min-height: 100%;
+    
    
 }
 
@@ -35,6 +36,11 @@ a{
     font-size: 20px;
 }
 
+main{
+position: absolute;
+left: 65px;
+
+}
 
 main>img{
 position: absolute;
@@ -93,6 +99,7 @@ main :nth-child(8){
     color: white;
     border-radius: 5px;
     padding: 10px;
+    width:140px;
 }
 
 main :nth-child(8):hover{
